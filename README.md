@@ -13,6 +13,5 @@ dei todo seguimento para proseguir com o projeto
 não foi o que eu esperava, mas foi o suficiente para me satisfazer.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 [backend_python_profissional_aprimorado_v2.pdf](https://github.com/user-attachments/files/20684341/backend_python_profissional_aprimorado_v2.pdf)
 meu projeto está nesse link
